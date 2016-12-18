@@ -1,7 +1,7 @@
 .padding-20 {
     padding: 20px;
 }
-input.ng-invalid {
+input.ng-invalid.ng-touched {
     border-color: red;
 } 
 form div.ng-active {
